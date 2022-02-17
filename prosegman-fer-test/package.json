@@ -1,0 +1,27 @@
+{
+  "name": "prosegman",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^6.2.0",
+    "embla-carousel-react": "^6.1.1",
+    "file-loader": "^6.2.0",
+    "next": "12.0.8",
+    "path": "^0.12.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.49.0",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@svgr/parcel-plugin-svgr": "^5.5.0",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "svg-inline-loader": "^0.8.2"
+  }
+}
